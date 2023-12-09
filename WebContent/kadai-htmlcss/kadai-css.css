@@ -1,0 +1,26 @@
+header {
+	width: 1000%;
+	height:30px;
+	background-color:#ffcccc;
+}
+#wrapper {
+
+}
+#main {
+float:left;
+width: 700%;
+background-color: #ccffcc;
+}
+asaide{
+	float:right;
+	width: 300%;
+}
+#menu {
+background-color: #ccccff;
+}
+footer {
+	width: 1000%;
+	height:30px;
+	background-color:#ffccff;
+
+}
